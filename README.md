@@ -39,4 +39,4 @@
 ![This is an image](attachments/screenshots/allure2.jpg)
 
 ##### Видео прохождение теста
-![This is an image](attachments/video/selenoid.mp4)
+![This is an image](attachments/video/selenoid.gif)
